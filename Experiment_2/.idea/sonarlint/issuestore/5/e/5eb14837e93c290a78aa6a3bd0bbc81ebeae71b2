@@ -1,0 +1,39 @@
+
+†
+java:S1319H"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Õãß­
+…
+java:S1319M"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰´âF
+‡
+java:S1319Õ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(êÿ¦
+Œ
+java:S1319Ù"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(“Ä•ãùÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(òÃ†A
+@
+java:S54114"*Use the primitive boolean expression here.(ÕÄ”÷
+@
+java:S5411s"*Use the primitive boolean expression here.(ôìıµ
+E
+java:S5411z"*Use the primitive boolean expression here.(Åâéüÿÿÿÿ
+f
+java:S1149!"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Êûüñ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¤òÇéşÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(æï¥è
+1
+java:S3626+"Remove this redundant jump.(ÉŠ©ƒ
+g
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰´âF
+O
+java:S2864f"4Iterate over the "entrySet" instead of the "keySet".(› Üºşÿÿÿÿ
+n
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(—ò ÿÿÿÿÿ
+U
+java:S1155­">Use isEmpty() to check whether the collection is empty or not.(ŸêÁ’
+U
+java:S1155­">Use isEmpty() to check whether the collection is empty or not.(ŸêÁ’
+i
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ò€‹
+I
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô8—Ùö0

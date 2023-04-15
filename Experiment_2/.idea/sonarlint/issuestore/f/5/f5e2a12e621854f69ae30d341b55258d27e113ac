@@ -1,0 +1,7 @@
+
+2
+java:S1643X"Use a StringBuilder instead.(Îë´
+r
+java:S1206G"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8É´¹Óö0
+6
+java:S2129V" Remove this "String" constructor(â˜Ê”

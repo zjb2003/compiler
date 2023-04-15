@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7488534-c528-40dc-b0ce-17619dad31ea" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/ActionCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/ActionCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/DFA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/GotoCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/GrammarSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/ItemCategoy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/ItemSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/LR0Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/LexemeCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/NonTerminalSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/Production.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/ProductionInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/SymbolType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/TerminalSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbol/TransitionEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Problem1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Problem2Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Problem2.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2OBFVhhcAqtVjvaCsWAN1jejXTD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41609195" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\compiler\Experiment_2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="symbol" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Problem2Test.TestGetCell">
+    <configuration name="Problem2Test.TestExhaustTransition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Experiment_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem2Test" />
+      <option name="METHOD_NAME" value="TestExhaustTransition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem2Test.TestGetCell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Experiment_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem2Test" />
+      <option name="METHOD_NAME" value="TestGetCell" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem2Test.TestGetClosure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Experiment_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem2Test" />
+      <option name="METHOD_NAME" value="TestGetClosure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem2Test.TestGetDFA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Experiment_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem2Test" />
+      <option name="METHOD_NAME" value="TestGetDFA" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem2Test.TestIsSLR1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Experiment_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem2Test" />
+      <option name="METHOD_NAME" value="TestIsSLR1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Problem2Test.TestGetCell" />
+        <item itemvalue="JUnit.Problem2Test.TestIsSLR1" />
+        <item itemvalue="JUnit.Problem2Test.TestGetDFA" />
+        <item itemvalue="JUnit.Problem2Test.TestExhaustTransition" />
+        <item itemvalue="JUnit.Problem2Test.TestGetClosure" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f7488534-c528-40dc-b0ce-17619dad31ea" name="变更" comment="" />
+      <created>1681026099366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681026099366</updated>
+      <workItem from="1681026100663" duration="12000" />
+      <workItem from="1681026157371" duration="22402000" />
+      <workItem from="1681092179576" duration="32069000" />
+      <workItem from="1681133422707" duration="1878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/Problem1Test.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

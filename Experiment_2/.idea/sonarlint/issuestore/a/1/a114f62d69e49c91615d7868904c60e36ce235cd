@@ -1,0 +1,46 @@
+
+‹
+java:S1319D"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¿êÛ¿şÿÿÿÿ
+‡
+java:S1319‡"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(æÿ…á
+
+java:S1319‡"wThe type of "pNonTerminalSymbolTable" should be an interface such as "List" rather than the implementation "ArrayList".(æÿ…á
+f	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğò«Å
+f	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¶À°
+g	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô§Œ©
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïò»Ïÿÿÿÿÿ
+f	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ŒÁ
+@
+java:S5411U"*Use the primitive boolean expression here.(ûÅŸ
+@
+java:S5411"*Use the primitive boolean expression here.(ËÀÒ×
+A
+java:S5411"*Use the primitive boolean expression here.(¤€ø
+F
+java:S5411Õ"*Use the primitive boolean expression here.(ç“á¨ıÿÿÿÿ
+F
+java:S5411á"*Use the primitive boolean expression here.(»è×äøÿÿÿÿ
+F
+java:S5411ç"*Use the primitive boolean expression here.(»è×äøÿÿÿÿ
+A
+java:S5411ó"*Use the primitive boolean expression here.(ıúıë
+A
+java:S5411"*Use the primitive boolean expression here.(àçá
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Œ„Ì¹
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ä’®ßşÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ïÿÿ‘
+=
+java:S1125U"'Remove the unnecessary boolean literal.(ûÅŸ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ÎåÔê
+A
+java:S1168W"+Return an empty collection instead of null.(¥¹ï
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(Š½º§ùÿÿÿÿ
+O
+java:S2864\"4Iterate over the "entrySet" instead of the "keySet".(˜–í´şÿÿÿÿ
+i
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(°è¨Á
+6
+java:S1659Å"Declare "j" on a separate line.(œıòæ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

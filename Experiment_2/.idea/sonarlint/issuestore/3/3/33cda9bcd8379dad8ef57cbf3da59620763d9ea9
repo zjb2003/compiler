@@ -1,0 +1,15 @@
+
+‹
+java:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¡™©úÿÿÿÿ
+‹
+java:S13195"pThe type of "pBodySymbolTable" should be an interface such as "List" rather than the implementation "ArrayList".(åüÇ£ÿÿÿÿÿ
+2
+java:S1643X"Use a StringBuilder instead.(Îë´
+g
+java:S1104"QMake idNum a static final constant or non-public and provide accessors if needed.(Æã¹“
+A
+java:S1444"+Make this "public static idNum" field final(Æã¹“
+W
+java:S1126L"AReplace this if-then-else statement by a single return statement.(ô‡°ó
+6
+java:S2129V" Remove this "String" constructor(â˜Ê”
